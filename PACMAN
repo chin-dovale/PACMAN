@@ -1,0 +1,6 @@
+size(500,500);
+fill(248,237,49);
+noStroke();
+arc(250, 230, 300, 300, radians(30), radians(330), PIE);
+fill(0);
+ellipse(270,150,40,40);
